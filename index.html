@@ -7,210 +7,300 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="font-awesome-4.4.0/css/font-awesome.min.css">
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
 </head>
 <body>
 
-<nav class="navbar">
+<nav class="navbar navbar-default" role="navigation">
   <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
-      <a class="navbar-brand" href="#"><img src="img/logo.png" alt="" width="100"></a>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><img src="img/logo-white.png" width="100" alt=""></a>
     </div>
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Home</a></li>
-      <li><a href="product.html">iPhone</a></li>
-      <li><a href="#">Laptop</a></li> 
-    </ul>
-    <ul class="nav navbar-nav navbar-right">
-      <li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
-    </ul>
-  </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+       <li class="active"><a href="#">iPhone</a></li>
+        <li><a href="#">MacBook</a></li>
+        <li><a href="#">Kamera SLR</a></li>
+        <li><a href="#">Sepatu</a></li>
+      </ul>
+    
+      <ul class="nav navbar-nav navbar-right">
+        <li><p class="navbar-text">Already have an account?</p></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Login</b> <span class="caret"></span></a>
+      <ul id="login-dp" class="dropdown-menu">
+        <li>
+           <div class="row">
+              <div class="col-md-12">
+                Login via
+                <div class="social-buttons">
+                  <a href="#" class="btn btn-fb"><i class="fa fa-facebook"></i> Facebook</a>
+                  <a href="#" class="btn btn-tw"><i class="fa fa-twitter"></i> Twitter</a>
+                </div>
+                or
+                 <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
+                    <div class="form-group">
+                       <label class="sr-only" for="exampleInputEmail2">Email address</label>
+                       <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email address" required>
+                    </div>
+                    <div class="form-group">
+                       <label class="sr-only" for="exampleInputPassword2">Password</label>
+                       <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" required>
+                                             <div class="help-block text-right"><a href="">Forget the password ?</a></div>
+                    </div>
+                    <div class="form-group">
+                       <button type="submit" class="btn btn-primary btn-block">Sign in</button>
+                    </div>
+                    <div class="checkbox">
+                       <label>
+                       <input type="checkbox"> keep me logged-in
+                       </label>
+                    </div>
+                 </form>
+              </div>
+              <div class="bottom text-center">
+                New here ? <a href="#modal"><b>Join Us</b></a>
+              </div>
+           </div>
+        </li>
+      </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
 </nav>
 
-  <div class="container">
-    <div class="img-banner">
-      <img src="img/iphone-ad.jpg" alt="">
-    </div>
-
-   
-<div class="row">
- <div class="col-xs-12 col-md-4 col-md-offset-4">
-    <div class="search">
-     <input type="text" class="form-control" placeholder="Search">
-   </div>
-   <button type="button" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
- </div>
-</div>
 
 
-<section>
-<legend class="title">
-  <h2>Produk</h2>
-</legend>
-
-<div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="product.html">
-        <div class="product">
-        <div class="thumbnail">
-          <img src="img/iphone.png" alt="iPhone">
+    <div class="container">
+        <div class="img-banner">
+          <img src="img/iphone-ad.jpg" alt="" style="width: 100%;">
         </div>
-      
-        iPhone
-        </div>
-      </a>
-  </div>
-
-  <div class="col-xs-6 col-md-3">
-    <div class="product">
-      <div class="thumbnail">
-        <img src="img/mac.png" alt="Mac">
-      </div>
-
-      MacBook
-    </div>
-  </div>
-
-  <div class="col-xs-6 col-md-3">
-    <div class="product">
-      <div class="thumbnail">
-        <img src="img/sepatu.png" alt="">
-      </div>
-
-      Sepatu Vantofel
-    </div>
-  </div>
-
-  <div class="col-xs-6 col-md-3">
-    <div class="product">
-      <div class="thumbnail">
-        <img src="img/slr.png" alt="">
-      </div>
-
-      Kamera SLR
-    </div>
-  </div>
-</div>
-</section>
-
-<section>
-  <legend class="title">
-    <h2>Mengapa sewa.com</h2>
-  </legend>
-  <div class="row">
-    <div class="col-xs-12 col-md-4">
-      <div class="reason">
-        <i class="fa fa-thumbs-up fa-4x" aria-hidden="true"></i>
-        <h3>Praktis</h3>
-        <div class="reason-content">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et nobis nam aliquid nemo hic. Natus magnam, odio voluptatem. Fugiat totam odio quos, ullam ipsam expedita id nemo ipsum perspiciatis vitae.
-        </div>
-      </div>
-    </div>
-
-      <div class="col-xs-12 col-md-4">
-        <div class="reason">
-          <i class="fa fa-rocket fa-4x" aria-hidden="true"></i>
-          <h3>Cepat</h3>
-          <div class="reason-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et nobis nam aliquid nemo hic. Natus magnam, odio voluptatem. Fugiat totam odio quos, ullam ipsam expedita id nemo ipsum perspiciatis vitae.
-          </div>
-        </div>
-      </div>    
-
-       <div class="col-xs-12 col-md-4">
-        <div class="reason">
-          <i class="fa fa-smile-o fa-4x" aria-hidden="true"></i>
-          <h3>Hemat</h3>
-          <div class="reason-content">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et nobis nam aliquid nemo hic. Natus magnam, odio voluptatem. Fugiat totam odio quos, ullam ipsam expedita id nemo ipsum perspiciatis vitae.
-          </div>
-        </div>
-      </div>    
-  </div>
-</section>
-
-<section>
-  <legend class="title">
-    <h2>Bagaimana caranya</h2>
-  </legend>
-  <div class="row">
-    <div class="col-xs-6 col-md-3">
-      <div class="reason">
-        <i class="fa fa-hand-o-up fa-4x" aria-hidden="true"></i>
-        <h3>Pilih Produk</h3>
-        <div class="reason-content">
-          Terdapat beberapa kategori (Smartphone, Laptop, Sepatu, dan kamera).
-        </div>
-      </div>
-    </div>
-
-      <div class="col-xs-6 col-md-3">
-        <div class="reason">
-          <i class="fa fa-calendar fa-4x" aria-hidden="true"></i>
-          <h3>Tentukan Waktu Menyewa</h3>
-          <div class="reason-content">
-            Waktu bisa Anda pilih, berapa lama untuk menyewa.
-          </div>
-        </div>
-      </div>    
-
-       <div class="col-xs-6 col-md-3">
-        <div class="reason">
-          <i class="fa fa-credit-card fa-4x" aria-hidden="true"></i>
-          <h3>Transfer</h3>
-          <div class="reason-content">
-           Setelah Anda transfer, Kami akan mengkontak penyedia barang untuk segera mengirimkannya.
-          </div>
-        </div>
-      </div>
-
-      <div class="col-xs-6 col-md-3">
-        <div class="reason">
-          <i class="fa fa-cube fa-4x" aria-hidden="true"></i>
-          <h3>Barang diterima</h3>
-          <div class="reason-content">
-            Barang telah Anda terima
-          </div>
-        </div>
-      </div>        
-  </div>
-</section>
-
-<footer>
-    <div class="footer">
-      <div class="row">      
-        <div class="col-xs-12 col-md-6"> 
-            <img src="img/logo.png" alt="sewa" width="135">
-              <span><b>Situs penyewaan barang pertama di Indonesia</b></span>
-            <br>
-           <ul class="list-inline">
-             <li>Home</li>
-             <li>Product</li>
-             <li>About</li>
-             <li>FAQ</li>
-           </ul>
-           &copy sewa.com 2016
+       
+    <div class="row">
+     <div class="col-xs-12 col-md-6 col-md-offset-3 text-center" style="--border:1px solid red;">
+        <h3>Ingin Menyewa Apa?</h3>
+         <div class="search">
+           <input type="text" class="form-control" placeholder="Search">
          </div>
-
-
-        <div class="right-footer">
-          <div class="col-xs-12 col-md-6"> 
-         <label style="margin-right: 25px;">Temukan Kami:</label><br>
-            <ul class="list-inline pull-right">
-              <li><i class="fa fa-twitter fa-3x circle" aria-hidden="true"></i></li>
-              <li><i class="fa fa-facebook fa-3x circle" aria-hidden="true"></i></li>
-              <li><i class="fa fa-linkedin fa-3x circle" aria-hidden="true"></i></li>
-            </ul>
+        <button type="button" class="btn btn-default"><i class="fa fa-search" aria-hidden="true"></i></button>
+     </div>
+    </div>
+    
+    <section>
+    <legend class="title">
+      <h2>Produk</h2>
+    </legend>
+    </section>
+    
+    <section>
+    <div class="row">
+      <div class="col-xs-6 col-md-3">
+        <a href="product.html">
+            <div class="product">
+            <div class="thumbnail">
+              <img src="img/iphone.png" alt="iPhone">
+            </div>
+          
+            iPhone
+            </div>
+          </a>
+      </div>
+    
+      <div class="col-xs-6 col-md-3">
+        <a href="product-mac.html">
+          <div class="product">
+              <div class="thumbnail">
+                <img src="img/mac.png" alt="Mac">
+              </div>
+            
+              MacBook
+            </div>
+          </a>
+      </div>
+    
+      <div class="col-xs-6 col-md-3">
+        <div class="product">
+          <div class="thumbnail">
+            <img src="img/sepatu.png" alt="">
           </div>
-        </div>
+    
+          Sepatu
         </div>
       </div>
-    </footer> 
-      
-   
     
+      <div class="col-xs-6 col-md-3">
+        <div class="product">
+          <div class="thumbnail">
+            <img src="img/slr.png" alt="">
+          </div>
+    
+          Kamera SLR
+        </div>
+      </div>
+    </div>
+    </section>
+    
+    <section>
+      <legend class="title">
+        <h2>Mengapa sewa.com</h2>
+      </legend>
+      <div class="row">
+        <div class="col-xs-12 col-md-4">
+          <div class="reason">
+            <i class="fa fa-thumbs-up fa-4x" aria-hidden="true"></i>
+            <h3>Tidak usah beli</h3>
+            <div class="reason-content">
+             Anda bisa memiliki barang yang Anda impikan tanpa harus membelinya.
+            </div>
+          </div>
+        </div>
+    
+          <div class="col-xs-12 col-md-4">
+            <div class="reason">
+              <i class="fa fa-rocket fa-4x" aria-hidden="true"></i>
+              <h3>Cepat</h3>
+              <div class="reason-content">
+                Barang bisa di dapat paling lama 2 hari setelah pemesanan.
+              </div>
+            </div>
+          </div>    
+    
+           <div class="col-xs-12 col-md-4">
+            <div class="reason">
+              <i class="fa fa-smile-o fa-4x" aria-hidden="true"></i>
+              <h3>Hemat</h3>
+              <div class="reason-content">
+                Harga sangat murah apabila Anda tidak memiliki kepentingan dalam waktu yang lama (Sewa Vantofel untuk wisuda)
+              </div>
+            </div>
+          </div>    
+      </div>
+    </section>
+    
+    <section>
+      <legend class="title">
+        <h2>Bagaimana caranya</h2>
+      </legend>
+      <div class="row">
+        <div class="col-xs-6 col-md-3">
+          <div class="reason">
+            <i class="fa fa-hand-o-up fa-4x" aria-hidden="true"></i>
+            <h3>Pilih Produk</h3>
+            <div class="reason-content">
+              Terdapat beberapa kategori (Smartphone, Laptop, Sepatu, dan kamera).
+            </div>
+          </div>
+        </div>
+    
+          <div class="col-xs-6 col-md-3">
+            <div class="reason">
+              <i class="fa fa-calendar fa-4x" aria-hidden="true"></i>
+              <h3>Tentukan Waktu Sewa</h3>
+              <div class="reason-content">
+                Waktu bisa Anda pilih, berapa lama untuk menyewa.
+              </div>
+            </div>
+          </div>    
+    
+           <div class="col-xs-6 col-md-3">
+            <div class="reason">
+              <i class="fa fa-credit-card fa-4x" aria-hidden="true"></i>
+              <h3>Transfer</h3>
+              <div class="reason-content">
+               Setelah Anda transfer, Kami akan mengkontak penyedia barang untuk segera mengirimkannya.
+              </div>
+            </div>
+          </div>
+    
+          <div class="col-xs-6 col-md-3">
+            <div class="reason">
+              <i class="fa fa-cube fa-4x" aria-hidden="true"></i>
+              <h3>Barang diterima</h3>
+              <div class="reason-content">
+                Barang telah Anda terima
+              </div>
+            </div>
+          </div>        
+      </div>
+    </section>
+    
+    <footer>
+        <div class="footer">
+          <div class="row">      
+            <div class="col-xs-12 col-md-6"> 
+                <img src="img/logo.png" alt="sewa" width="135">
+                  <span><b>Situs penyewaan barang pertama di Indonesia</b></span>
+                <br>
+               <ul class="list-inline">
+                 <li class="footer-category">Home</li>
+                 <li class="footer-category">Product</li>
+                 <li class="footer-category" data-toggle="modal" data-target="#myModal">About</li>
+                 <li class="footer-category"><a href="faq.html">FAQ</a></li>
+               </ul>
+               &copy sewa.com 2016
+             </div>
 
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Hubungi Kami</h4>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-xs-12" style="margin-bottom: 10px;">
+              sewa.com adalah website penyewaan barang pertama di Indonesia. Barang-barang yang ditawarkan adalah barang Anda ingin miliki nanti, jadi tidak ada salahnya untuk mencoba.
+            </div>
+
+            <div class="col-xs-12">
+              <ul class="list-unstyled">
+                <li><i class="fa fa-home fafa" aria-hidden="true"></i>Taman Setiabudi E/7, <b>Jakarta Selatan</b></li>
+                <li><i class="fa fa-phone fafa" aria-hidden="true"></i> 085 737 361 067</li>
+                <li><i class="fa fa-envelope fafa" aria-hidden="true"></i> info@sewa.com</li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
   </div>
+    
+    
+            <div class="right-footer">
+              <div class="col-xs-12 col-md-6"> 
+             <label style="margin-right: 25px;">Temukan Kami:</label><br>
+                <ul class="list-inline pull-right">
+                  <li><i class="fa fa-twitter fa-3x circle" aria-hidden="true"></i></li>
+                  <li><i class="fa fa-facebook fa-3x circle" aria-hidden="true"></i></li>
+                  <li><i class="fa fa-linkedin fa-3x circle" aria-hidden="true"></i></li>
+                </ul>
+              </div>
+            </div>
+            </div>
+          </div>
+        </footer> 
+          
+    </div>
 </body>
 </html>
+   
