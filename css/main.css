@@ -248,11 +248,13 @@ width:80%;
 }
 
 .product-page-others{
-  width:175px;
-  height:175px;
-  --border:1px solid red;
-  vertical-align:middle;
+  width:200px;
+  height:200px;
+  --border:1px solid silver;
+  padding:10px;
+  border-radius:5px;
   display:table-cell;
+  vertical-align:middle;
 }
 
 .product-page-others img{
@@ -263,13 +265,18 @@ width:80%;
 }
 
 .others{
-  border:1px solid silver;
+  --border:1px solid silver;
   padding:10px 15px;
   margin:20px 5px;
 }
 
 .others h4{
   text-align:center;
+}
+
+
+.product-page-other{
+
 }
 
 /* checkout */
@@ -280,12 +287,15 @@ width:80%;
 }
 
 
+footer{
 
+}
 
 .footer{
   margin-left:10px;
   font-size:15px;
   border-top:2px solid silver;
+  padding-top:10px;
 }
 
 .footer li{
@@ -304,6 +314,10 @@ width:80%;
 
 .footer-category:hover{
   text-decoration:underline;
+}
+
+.footer-title{
+  font-size:19px;
 }
 
 /* faq */
