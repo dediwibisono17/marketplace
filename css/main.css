@@ -112,7 +112,7 @@ width:80%;
 /*product*/
 
 .wrapper-product-rent{
-  display:table;
+
 }
 
 .thumbnail:hover{
@@ -329,4 +329,8 @@ footer{
 
 .fafa{
   letter-spacing:10px;
+}
+
+.content-term{
+  line-height:27px;
 }
