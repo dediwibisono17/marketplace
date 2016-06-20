@@ -1,0 +1,1205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bs3-se",
+				"bs3-select	bs3-select"
+			],
+			[
+				"ju",
+				"justify"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"a",
+				"arrow-down.png	w:512 h:512"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"g",
+				"google_play.png	w:600 h:350"
+			],
+			[
+				"tetx",
+				"text-decoration"
+			],
+			[
+				"column",
+				"column-count"
+			],
+			[
+				"bs3-button",
+				"bs3-button:danger	bs3-button-danger"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bs3-table",
+				"bs3-table:bordered	bs3-table-bordered"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"button",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"se",
+				"seroyamart_logo_horizontal.png	w:1145 h:289"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"contr",
+				"firstController"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"white",
+				"white"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"bt",
+				"bs3-button	bs3-button"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"bu",
+				"bs3-button:info	bs3-button-info"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"lo",
+				"lolalola.png	w:800 h:382"
+			],
+			[
+				"oror",
+				"orori.png	w:800 h:382"
+			],
+			[
+				"bs",
+				"bs3-button	bs3-button"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"image",
+				"image/"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"s",
+				"services.html"
+			],
+			[
+				"san",
+				"sandisk-kecil.png	w:330 h:330"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"ch",
+				"chrome.jpg	w:300 h:327"
+			],
+			[
+				"harga",
+				"data-harga-lama"
+			],
+			[
+				"if",
+				"if()"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pa",
+				"parent	.parent()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"border-bottom",
+				"border-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"border-b",
+				"border-box"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"type",
+				"typeof(Object)	Object"
+			],
+			[
+				"for",
+				"for of"
+			],
+			[
+				"cons",
+				"console.log()"
+			],
+			[
+				"forEa",
+				"forEach(callback)	Array"
+			],
+			[
+				"pr",
+				"pos-r	position: relative;"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"bs3",
+				"bs3-button	bs3-button"
+			],
+			[
+				"but",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"tabl",
+				"table"
+			],
+			[
+				"butt",
+				"bs3-button:default	bs3-button-default"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"f",
+				"footer.jpg	w:1968 h:819"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"t",
+				"twitter.png	w:75 h:75"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"ka",
+				"kaos 3.png	w:1600 h:897"
+			],
+			[
+				"Montse",
+				"Montserrat-Regular.ttf"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"1",
+				"1.png	w:494 h:414"
+			],
+			[
+				"andr",
+				"Android_logo_silver.jpg	w:357 h:384"
+			],
+			[
+				"ptii",
+				"ptiik-logo.jpg	w:666 h:209"
+			],
+			[
+				"pti",
+				"ptiik-logo.jpg	w:666 h:209"
+			],
+			[
+				"pt",
+				"ptiik-logo.jpg	w:666 h:209"
+			],
+			[
+				"bio",
+				"bios-baru.png	w:600 h:360"
+			],
+			[
+				"pow",
+				"power-orang.png	w:600 h:360"
+			],
+			[
+				"and",
+				"andro.png	w:600 h:360"
+			],
+			[
+				"an",
+				"android-orang.jpg	w:1514 h:833"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"__",
+				"__construct"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"p",
+				"p2"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header.html",
+			"settings":
+			{
+				"buffer_size": 3178,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6415,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 223.0,
+		"last_filter": "remove",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: na",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"conta	",
+				"Snippet: bs3-container"
+			],
+			[
+				"Snippet: sour",
+				"Snippet: Bootstrap success alert"
+			],
+			[
+				"Snippet: html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-carousel"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: bs3-html5-template"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/sewa"
+	],
+	"file_history":
+	[
+		"/C/Users/Dedi/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Dedi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Dedi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Dedi/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager.sublime-settings",
+		"/C/xampp/htdocs/bootstrap/register.html",
+		"/C/xampp/htdocs/bootstrap/syarat.html",
+		"/C/xampp/htdocs/bootstrap/product.html",
+		"/C/xampp/htdocs/bootstrap/css/main.css",
+		"/C/xampp/htdocs/bootstrap/product-mac.html",
+		"/C/xampp/htdocs/bootstrap/checkout.html",
+		"/C/xampp/htdocs/bootstrap/dashboard.html",
+		"/C/xampp/htdocs/bootstrap/footer.html",
+		"/C/xampp/htdocs/bootstrap/faq.html",
+		"/C/xampp/htdocs/bootstrap/product-page.html",
+		"/C/xampp/htdocs/bootstrap/index.html",
+		"/C/xampp/htdocs/bootstrap/header.html",
+		"/C/xampp/htdocs/dashboard/css/main.css",
+		"/C/xampp/htdocs/crud/index.php",
+		"/C/xampp/htdocs/crud/database.php",
+		"/C/xampp/htdocs/sustagen/database.php",
+		"/C/xampp/htdocs/wordpress/wp-config-sample.php",
+		"/C/xampp/htdocs/wordpress/wp-admin/install.php",
+		"/D/file popbox/repotin aja/index_3.html",
+		"/C/xampp/htdocs/sustagen/hasil.html",
+		"/C/xampp/htdocs/sustagen/index.php",
+		"/C/xampp/htdocs/bootstrap/js/bootstrap-datetimepicker.js",
+		"/C/xampp/htdocs/bootstrap-template/index.php",
+		"/C/Users/Dedi/Downloads/index (4).php",
+		"/C/xampp/htdocs/blogger/resources/views/dynamictest.php",
+		"/D/popbo/PopBox - Rakuten Belanja Online.html",
+		"/C/xampp/htdocs/blogger/public/bootstrap.min.css",
+		"/C/Users/Dedi/Downloads/index (1).html",
+		"/C/xampp/htdocs/blogger/resources/views/master.blade.php",
+		"/C/xampp/htdocs/tokped/style.css",
+		"/C/xampp/htdocs/tokped/index.html",
+		"/C/xampp/htdocs/feriyanti/index.php",
+		"/C/xampp/htdocs/footer/footer-distributed-with-contact-form.html",
+		"/C/xampp/htdocs/footer/css/demo.css",
+		"/C/xampp/htdocs/ui-popbox/css/bootstrap.min.css",
+		"/C/xampp/htdocs/bootstrap/css/bootstrap.min.css",
+		"/C/xampp/htdocs/seroya/test.html",
+		"/C/xampp/htdocs/faq/indonesia.html",
+		"/C/xampp/htdocs/seroya/index.html",
+		"/C/xampp/htdocs/popmart/asmaraku-amporlo-trunk-stripe-grey.html",
+		"/C/xampp/htdocs/popmart/asmaraku-dr-boyke-wish-femislim.html",
+		"/C/xampp/htdocs/courierlog/index.php",
+		"/C/xampp/htdocs/ui/partner.html",
+		"/C/xampp/htdocs/blogger/resources/views/news.blade.php",
+		"/C/xampp/htdocs/blogger/resources/views/faq.blade.php",
+		"/C/xampp/htdocs/blogger/resources/views/dedi.blade.php",
+		"/C/xampp/htdocs/blogger/resources/views/footer.blade.php",
+		"/C/xampp/htdocs/blogger/vendor/symfony/process/Tests/PipeStdinInStdoutStdErrStreamSelect.php",
+		"/C/xampp/htdocs/blogger/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/blogger/public/style.css",
+		"/C/Users/Dedi/Desktop/laravel_Project/blogger/config/view.php",
+		"/C/Users/Dedi/Desktop/laravel_Project/blogger/tests/TestCase.php",
+		"/C/Users/Dedi/Desktop/laravel_Project/blogger/bootstrap/app.php",
+		"/C/Users/Dedi/Desktop/laravel_Project/blogger/bootstrap/autoload.php",
+		"/C/xampp/htdocs/bukalapak/index.html",
+		"/C/xampp/htdocs/dedi/index.php",
+		"/C/xampp/htdocs/homepage/style.css",
+		"/C/xampp/htdocs/homepage/index.html",
+		"/C/xampp/htdocs/faq/index.html",
+		"/C/xampp/htdocs/faq/style.css",
+		"/C/xampp/htdocs/popmart/style.css",
+		"/C/xampp/htdocs/popmart/index.html",
+		"/C/xampp/htdocs/traveloka/index.html",
+		"/C/xampp/htdocs/ui/css/main.css",
+		"/C/xampp/htdocs/ui/karir.html",
+		"/C/xampp/htdocs/ui/index.html",
+		"/C/xampp/htdocs/traveloka/style.css",
+		"/C/xampp/htdocs/traveloka/traveloka.html",
+		"/C/xampp/htdocs/ui/faq.html",
+		"/C/xampp/htdocs/ui/services.html",
+		"/C/xampp/htdocs/ui/news.html",
+		"/C/xampp/htdocs/login/order.html",
+		"/C/xampp/htdocs/bukalapak.v2/index.html",
+		"/C/xampp/htdocs/bukalapak.v2/style.css",
+		"/C/xampp/htdocs/bukalapak/style.css",
+		"/C/xampp/htdocs/ui/css/bootstrap.min.css",
+		"/C/Users/Dedi/AppData/Local/Temp/Rar$DRa0.188/index.html",
+		"/C/xampp/htdocs/popbox-front/index.php",
+		"/C/xampp/htdocs/ui/css/lightbox.css",
+		"/C/xampp/htdocs/ui/css/responsive.css",
+		"/C/Users/Dedi/AppData/Local/Temp/Rar$DRa0.143/index.html",
+		"/C/xampp/htdocs/landing/css/agency.css",
+		"/C/xampp/htdocs/popbox-front/css/styles.css",
+		"/C/xampp/htdocs/landing/index.html",
+		"/C/xampp/htdocs/mierip/assets/css/style.css",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/linkedin/index.php",
+		"/C/xampp/htdocs/typer-master/index.html",
+		"/C/xampp/htdocs/lazy-load-xt-master/src/jquery.lazyloadxt.spinner.css",
+		"/C/xampp/htdocs/lazy-load-xt-master/demo/spinner.htm",
+		"/C/xampp/htdocs/lazy-load-xt-master/demo/css/style.css",
+		"/C/xampp/htdocs/typer-master/backbone.js",
+		"/C/xampp/htdocs/typer-master/underscore.js",
+		"/C/xampp/htdocs/elevator-master/myelevator.js",
+		"/C/xampp/htdocs/lazy-load-xt-master/dist/jquery.lazyloadxt.spinner.css",
+		"/C/xampp/htdocs/header-popbox/style.css",
+		"/C/xampp/htdocs/header-popbox/index.html",
+		"/D/film baru/Fated to Love You  (Belum ditonton)/FTLY (17).srt",
+		"/C/xampp/htdocs/mierip/application/views/home.php",
+		"/C/xampp/htdocs/popbox-front/index.html",
+		"/C/xampp/htdocs/popbox-front/style.css",
+		"/E/design/Popbox - Homepage.html",
+		"/C/xampp/htdocs/popbo-coba/index.html",
+		"/C/xampp/htdocs/bootstrap/index.php",
+		"/C/xampp/htdocs/popbox/index.php",
+		"/C/Users/Dedi/Documents/dedi/popbox/index.php",
+		"/C/Users/Dedi/Downloads/jQuery-Plugin-To-Create-Animated-Skill-Experience-Bars-Skillset-js/index.html",
+		"/C/xampp/htdocs/popbox/css/main.css",
+		"/C/xampp/htdocs/paypal/css/main.css",
+		"/C/xampp/htdocs/paypal/index.php",
+		"/E/kerjaan/box/box/index.html",
+		"/C/xampp/htdocs/linkedin/css/main.css",
+		"/C/xampp/htdocs/leson/index.php",
+		"/C/xampp/htdocs/feriyanti/cek.php",
+		"/C/xampp/htdocs/feriyanti/artikel.php",
+		"/C/xampp/htdocs/feriyanti/tour.php",
+		"/E/kerjaan/New folder/bb-vendor/guzzle/guzzle/docs/getting-started/installation.rst",
+		"/C/xampp/htdocs/dedi-pop/css/main.css",
+		"/C/xampp/htdocs/feriyanti/css/rating.css",
+		"/C/xampp/htdocs/feriyanti/js/rating.min.js",
+		"/C/xampp/htdocs/rating/examples/index.html",
+		"/C/xampp/htdocs/feriyanti/penginapan.php",
+		"/C/xampp/htdocs/article/index.html",
+		"/C/xampp/htdocs/kompas/css/main.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-xs-6",
+			"login",
+			"class=\"dashboard-content\"",
+			"class=\"kategori-item\"",
+			"pengaturan\").show(500)",
+			"pesan\").show(500",
+			"show",
+			"contgrouuprol",
+			"control",
+			"li",
+			".img",
+			"mysqli",
+			"<option>",
+			"colum",
+			"img/qr/img-",
+			"img-",
+			"abou",
+			";\"></",
+			"optradio",
+			"all",
+			".konten",
+			"giv",
+			"col-md-offset-1",
+			"id=\"judul\"",
+			"col-md-3",
+			"col-md-4",
+			"md-4",
+			"#id",
+			"col-xs-offset-1",
+			"style=\"margin-right: 20px;\"",
+			"span",
+			"<li>",
+			"<ol>",
+			".carousel-control",
+			"slider",
+			"col-md-4",
+			"&nbsp;",
+			"col-xs-8",
+			"col-xs-4",
+			"tbody",
+			"<tbody>",
+			"h2",
+			"h4",
+			"xs-12",
+			">Disc",
+			"Disc",
+			"	",
+			"style=\"border: 1px solid red;\"",
+			"	",
+			".nav-pills>li.active>a:hover",
+			".nav-pills>li.active>a,",
+			".nav-pills>li",
+			"#d9534f",
+			".nav-pills>li.active>a",
+			"#d9534f",
+			"email",
+			"background:url(../img",
+			"url(../",
+			"url",
+			"#judu",
+			"slide",
+			"carousel slide",
+			"foot",
+			"#conta",
+			"product",
+			"#client",
+			"product-de",
+			"red-popbox",
+			"$red-popbox;",
+			"$red-popbox;;",
+			"red-popbox",
+			"red-po",
+			"red-popbox",
+			"#cf252b;",
+			"#2a6496",
+			"428bca",
+			"pagination",
+			"paginat",
+			"kontak",
+			"width=\"200\"",
+			".promotion",
+			"#promotion",
+			"cek",
+			"background: b",
+			"h4",
+			"container-ful",
+			"#client",
+			"#c",
+			"active",
+			"why",
+			"pricing",
+			"portfolio",
+			"about",
+			"background",
+			"23",
+			"background",
+			"tt-themeforest",
+			"client1",
+			"85px",
+			"font-family",
+			"pad",
+			"line-h",
+			"content-sl",
+			"\"Roboto\"",
+			"'Roboto'",
+			"background:ur",
+			"background-i",
+			"Arial",
+			".png",
+			"padding",
+			"intro-text",
+			"header",
+			"header .intro-text",
+			"header",
+			"header .intro-text",
+			"container",
+			"lightblue",
+			"#347ab6;",
+			"border:1px solid blue;",
+			"style=\"border:1px solid blue;\"",
+			"style=\"border:1px solid blue;",
+			"omb_login",
+			"khaki",
+			"font-family",
+			"khaki",
+			"intro-lead-in",
+			"#777",
+			".bg-light-gray"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"col-xs-offset-1",
+			"xs-6",
+			">Disc ",
+			"Disc ",
+			"",
+			"background:url(img",
+			"url(",
+			"$red-popbox;",
+			"red-popbox;",
+			"red-popbox",
+			"#d9534f",
+			"d9534f",
+			"width=\"500\"",
+			"width=\"100\"",
+			"h3",
+			"kontak",
+			"client",
+			"lokasi",
+			"services",
+			"20",
+			"'Open Sans'",
+			".jpg",
+			"#cf252b",
+			"#d85450;",
+			"--border:1px solid blue;",
+			"",
+			"lightblue",
+			"#cf252b",
+			"Close",
+			"#cf252b",
+			"#cf252b;",
+			"#cf252b",
+			"cf252b",
+			"#cf252b",
+			"h4",
+			"cf252b",
+			"title-product\">",
+			"",
+			"col-xs-6 col-md-3 col-sm-4",
+			"col-xs-6 col-md-4 col-sm-3 ",
+			"col-xs-6 col-sm-3",
+			"",
+			"col-xs-6 col-sm-4 col-md-3",
+			"3b3b3b",
+			"#898989",
+			"black",
+			"",
+			"red",
+			"Kunjungi Halaman",
+			"",
+			"col-xs-6 col-sm-4 col-md-3",
+			"",
+			"col-xs-3",
+			"col-xs-6 col-md-3",
+			"",
+			"215",
+			"260",
+			"230",
+			"sticky span",
+			"no",
+			"pict",
+			"picture ",
+			"box",
+			"800px",
+			"900px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1513,
+								1513
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4858,
+								4858
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2556.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sewa.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"font-awesome-4.4.0\\less\\path.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\sewa\\sewa.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
