@@ -62,11 +62,15 @@ a{
 
 /* end css */
 .img-banner{
-  width:80%;
+  width:50%;
   --height:80px;
   --border:1px solid red;
   text-align:center;
   margin:0 auto;
+}
+
+.img-banner img{
+  width:100%;
 }
 
 section{
@@ -359,6 +363,10 @@ footer{
   border:3px solid #eee;
   border-radius:999em;
   margin: auto;
+}
+
+.img-thumbnail{
+  width:100px;
 }
 
 

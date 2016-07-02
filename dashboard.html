@@ -30,16 +30,25 @@
 				
 				<div class="dashboard-kategori">
 					<div class="list-group">
-					  <a href="#" class="list-group-item kategori-item" id="produk"><span class="badge">12</span>Produk</a>
+					  <a href="#" class="list-group-item kategori-item" id="produk"><span class="badge">12</span>Tambah Produk</a>
+					  <a href="#" class="list-group-item kategori-item" id="kelola"><span class="badge">2</span>Kelola Produk</a> 
 					  <a href="#" class="list-group-item kategori-item" id="pesan"><span class="badge">5</span> Pesan dari Customer</a> 
-					  <a href="#" class="list-group-item kategori-item" id="pengaturan"><span class="badge">3</span> Pengaturan</a> 
+					  <a href="#" class="list-group-item kategori-item" id="pengaturan"><span class="badge">3</span> Pengaturan</a>
 					</div>
 				</div>
 			</div>
 
 			<div class="col-xs-12 col-sm-9 dashboard-content" id="edit-produk">
 				<form action="#" class="form-horizontal">
-					<legend class="title">Edit Produk Anda</legend>
+					<legend class="title">Tambah Produk Anda</legend>
+
+					<div class="form-group">
+						<label class="col-md-2 control-label">Nama Produk</label>
+						<div class="col-md-8">
+							<input type="text" required class="form-control" name="nama">
+						</div>
+					</div>
+
 					<div class="form-group">
 						<label class="col-md-2 control-label">Kategori</label>
 						<div class="col-md-8">
@@ -72,7 +81,7 @@
 					<div class="form-group">
 						<label class="col-md-2 control-label">Ganti Foto Produk</label>
 						<div class="col-md-8">
-							<input type="file" required name="berat">
+							<input type="file" required>
 						</div>
 					</div>
 
@@ -89,6 +98,49 @@
 					</div>
 
 				</form>
+			</div>
+
+			<div class="col-xs-12 col-sm-9 dashboard-content" id="edit-kelola" hidden>
+			<legend class="title">Kelola Produk Anda</legend>
+				<table class="table table-responsive">
+						<thead>
+							<tr>
+								<th>Produk</th>
+								<th>Nama</th>
+								<th>Harga</th>
+								<th>Aksi</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>
+									<div class="thumbnail img-thumbnail">
+										<img src="img/iphone-produk3.png" alt="">
+									</div>
+								</td>
+								<td>iPhone 5C 32GB</td>
+								<td>Rp 120,000 /hari</td>
+								<td> 
+									<button type="button" class="btn btn-xs btn-default">Update</button>
+									<button type="button" class="btn btn-xs btn-default">Delete</button>
+								</td>
+							</tr>
+
+							<tr>
+								<td>
+									<div class="thumbnail img-thumbnail">
+										<img src="img/iphone-produk2.png" alt="">
+									</div>
+								</td>
+								<td>iPhone 4S 32GB</td>
+								<td>Rp 100,000 /hari</td>
+								<td>
+									<button type="button" class="btn btn-xs btn-default">Update</button>
+									<button type="button" class="btn btn-xs btn-default">Delete</button>
+								</td>
+							</tr>
+						</tbody>
+					</table>
 			</div>
 
 			<div class="col-xs-12 col-sm-9 dashboard-content" id="edit-pesan" hidden>
