@@ -369,6 +369,14 @@ footer{
   width:100px;
 }
 
+.minimum-day{
+
+}
+
+.minimum-day::after{
+  content:" Hari";
+}
+
 
 
 /* slider mobile */
